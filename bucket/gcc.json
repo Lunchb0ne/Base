@@ -25,7 +25,7 @@
                 "http://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-pkg-config-0.29.2-3-any.pkg.tar.zst",
                 "http://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-windows-default-manifest-6.4-3-any.pkg.tar.xz",
                 "http://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-libwinpthread-git-9.0.0.6272.1db0f476f-2-any.pkg.tar.zst",
-                "http://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-winpthreads-git-9.0.0.6294.f5ac9206e-1-any.pkg.tar.zst"
+                "http://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-winpthreads-git-9.0.0.6294.f5ac9206e-1-any.pkg.tar.zst",
                 "http://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-zlib-1.2.11-9-any.pkg.tar.zst"
             ],
             "hash": [
